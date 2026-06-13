@@ -186,11 +186,11 @@ This generates a static build in `client/dist`.
 ## 🏗️ System Architecture
 
 <p align="center">
-<img src="./docs/architecture.png" width="900">
+<img src="./docs/Architecture.png" width="900">
 </p>
 
 ## 🎥 Video Explanation
 
 Watch the complete project explanation and demo here:
 
-▶️ YouTube Video: [Add your YouTube Link Here]
+▶️ YouTube Video:https://youtu.be/2MxnFd0b3-U?si=2jDqTM1aEapVPmpI
