@@ -194,3 +194,5 @@ This generates a static build in `client/dist`.
 Watch the complete project explanation and demo here:
 
 ▶️ YouTube Video:[https://youtu.be/2MxnFd0b3-U?si=2jDqTM1aEapVPmpI]
+
+“This project is a part of a hackathon run by https://katomaran.com "
