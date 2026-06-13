@@ -182,3 +182,15 @@ This generates a static build in `client/dist`.
 4. Add the following **Environment Variable**:
    - `VITE_API_URL`: *Your Render backend service API URL (e.g. `https://linkpulse-api.onrender.com/api`)*
 5. Click **Deploy**. Vercel will build the frontend assets and distribute them globally.
+
+## 🏗️ System Architecture
+
+<p align="center">
+<img src="./docs/architecture.png" width="900">
+</p>
+
+## 🎥 Video Explanation
+
+Watch the complete project explanation and demo here:
+
+▶️ YouTube Video: [Add your YouTube Link Here]
